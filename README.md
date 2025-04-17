@@ -20,15 +20,6 @@ A lightweight, beginner-friendly port scanner written in Python. It scans a targ
 - **threading** – for concurrent scanning
 
 ---
-
-## 💻 Usage
-
-Run the script in your terminal:
-
-```bash
-python3 python_port_scanner.py
-
-
 ## 📷 Screenshots
 
 ### 🔹 Basic Port Scan Output
@@ -39,6 +30,17 @@ python3 python_port_scanner.py
 
 ![Nmap Scan](https://github.com/tchaiwanda/Port_Scanner/blob/main/images/nmap-scan.png?raw=true)
 
+---
+
+
+
+## 💻 Usage
+
+Run the script in your terminal:
+
+python3 python_port_scanner.py
+
+---
 
 🧠 What I Learned
 Network fundamentals: how ports work and how they respond
