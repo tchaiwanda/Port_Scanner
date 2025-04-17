@@ -27,11 +27,18 @@ Run the script in your terminal:
 
 ```bash
 python3 python_port_scanner.py
-📷 Screenshots
-🔹 Basic Port Scan Output
-https://github.com/tchaiwanda/Port_Scanner/blob/main/images/basic-scan.png?raw=true
-🔹 Nmap Scan Comparison
-https://github.com/tchaiwanda/Port_Scanner/blob/main/images/nmap-scan.png?raw=true
+
+
+## 📷 Screenshots
+
+### 🔹 Basic Port Scan Output
+
+![Basic Scan](https://github.com/tchaiwanda/Port_Scanner/blob/main/images/basic-scan.png?raw=true)
+
+### 🔹 Nmap Scan Comparison
+
+![Nmap Scan](https://github.com/tchaiwanda/Port_Scanner/blob/main/images/nmap-scan.png?raw=true)
+
 
 🧠 What I Learned
 Network fundamentals: how ports work and how they respond
