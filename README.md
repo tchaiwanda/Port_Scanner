@@ -1,3 +1,5 @@
+⚠️ Educational use only. Test on devices/networks you own or have explicit permission to assess. Comply with local laws.
+
 # 🛠️ Python Port Scanner
 
 A lightweight, beginner-friendly port scanner written in Python. It scans a target host or range of IPs for open ports using sockets and multithreading.
