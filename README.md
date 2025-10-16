@@ -60,6 +60,8 @@ Port_Scanner/
 │   └── nmap-scan.png
 ├── python_port_scanner.py
 └── README.md
+
+
 📌 Note
 This scanner is intended for educational purposes only. Always ensure you have permission to scan any host.
 
